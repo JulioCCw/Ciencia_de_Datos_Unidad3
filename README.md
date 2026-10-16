@@ -16,13 +16,13 @@
 2. Exploración inicial: Función de exploración integrada en main() del script analisis_operacional.py para revisión de datos.
 3. Proceso de filtrado: Función de filtrado integrado en main() para exportación de Excel con destino a outputs/
 4. Análisis de datos: Función de visualización por medio de dashboard utilizando plotly.express
-5. Documentación: Actualizar README.md cada vez que se implemente una nueva función o cambio de parámetros GitHub
+5. Documentación: Actualizar README.md cada vez que se implemente una nueva función o cambio de parámetros en GitHub
 
 ### Principales resultados
 - Exportación de dos archivos Excel filtrados según las variables definidas
 - Visualización de dashboard
 
 ### Instrucciones de uso
-1. Clonar repositorio de GitHub
+1. Clonar el repositorio de GitHub
 2. Ejecutar analisis_operacional.py
 3. Visualizar resultados con dashboard.py
