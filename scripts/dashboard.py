@@ -16,6 +16,8 @@ def desempeno_region_servicio(df_soporte):
             "incidencias_reportadas": "Incidencias Reportadas"
         })
     fig.show()
+    # Guardar en carpeta dashboards
+    fig.write_html("dashboards/desempeno_region_servicio.html")
 # Iniciar funcion Barra
 def main():
     df_soporte, _ = analisis_main()
