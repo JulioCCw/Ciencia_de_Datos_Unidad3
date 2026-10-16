@@ -32,4 +32,3 @@
 - Se añade notebooks sobre el proyecto.
 - Integracion de modulos reutilizables en script/modulo
   - Ejemplos de uso integrados en main() de analisis_operacional.py, comentados con # para ejecucion selectiva.
-[Ver Dashboard Interactivo ("dashboards/desempeno_region_servicio.html")]
