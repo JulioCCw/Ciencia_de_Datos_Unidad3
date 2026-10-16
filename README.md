@@ -26,3 +26,9 @@
 1. Clonar el repositorio de GitHub
 2. Ejecutar analisis_operacional.py
 3. Visualizar resultados con dashboard.py
+
+### Actualizaciones
+- Se implementa carpetas de guardado para dashboards.
+- Se añade notebooks sobre el proyecto.
+- Integracion de modulos reutilizables en script/modulo
+  - Ejemplos de uso integrados en main() de analisis_operacional.py, comentados con # para ejecucion selectiva.
