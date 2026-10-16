@@ -14,6 +14,12 @@
 - Archivos exportados a outputs/
 - Dashboard guardado en su propia carpeta y mostrando en su ejecución
 - Notebook documentado con las principales funciones
+### Evaluación de calidad de datos
+- Datos explorados no presentan duplicidad
+- No hay presencia de datos faltantes en ninguna celda del archivo Excel de origen
+- No hay valores negativos presentes en el archivo
+- Formato de datos correcto y sin errores de redacción
+- Presencia de valores atípicos detectada al usar el módulo Numpy
 ### Conclusión
 - Extracción de datos completa
 - Visualización de dashboard funcional
